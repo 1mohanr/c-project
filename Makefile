@@ -19,3 +19,4 @@ fact.o: fact.c
 
 clean:
 	rm -f *.o $(TARGET)
+
